@@ -1,0 +1,75 @@
+body {
+    background-color: #f77a06bb;
+}
+
+
+/*---NAVBAR---*/
+
+#div1 {
+    position: absolute;
+    height: 10%;
+    left: 5%;
+    width: 90%;
+    top: 0%;
+    background-color: #fafafa;
+}
+
+.nav-link {
+    color: #ffa601;
+}
+
+.nav-link:hover {
+    color: blue;
+}
+
+
+/*------------------------------------------------------*/
+
+
+/*---CAROSUEL---*/
+
+#div2 {
+    position: absolute;
+    background-color: #e6e4e4;
+    height: 90%;
+    left: 5%;
+    width: 90%;
+    top: 10%;
+}
+
+.carousel,
+.carousel-inner {
+    height: 90vh;
+}
+
+.texto_carru {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+}
+
+
+/*
+#carouselExampleIndicators {
+    position: static;
+}
+
+.carousel-inner {
+    position: static;
+}
+
+.carousel-item {
+    position: static;
+}
+
+.carousel-control-next {
+    color: #000000;
+}
+
+.img-ca {
+    position: absolute;
+    height: 100%;
+}
+*/
+
+
+/*------------------------------------------------------*/

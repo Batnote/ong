@@ -1,0 +1,73 @@
+body {
+    background-color: #f77a06bb;
+}
+
+
+/*---NAVBAR---*/
+
+#div1 {
+    position: absolute;
+    height: 10%;
+    left: 5%;
+    width: 90%;
+    top: 0%;
+    background-color: #fafafa;
+}
+
+.nav-link {
+    color: #ffa601;
+}
+
+.nav-link:hover {
+    color: blue;
+}
+
+
+/*------------------------------------------------------*/
+
+#div2 {
+    position: absolute;
+    background-color: #e6e4e4;
+    height: 90%;
+    left: 5%;
+    width: 90%;
+    top: 10%;
+}
+
+#Titulo {
+    text-align: center;
+}
+
+.tabla1 {
+    margin-right: 50%;
+    text-align: justify;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+.foto {
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.txt {
+    margin-top: 10%;
+}
+
+.slider_adopta {
+    margin-top: 10%;
+    margin-left: 30%;
+}
+
+.infoa {
+    position: relative;
+    top: -55%;
+    width: 35%;
+    left: 61%
+}
+
+
+/*------------------------------------------------------*/
