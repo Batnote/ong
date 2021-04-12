@@ -12,14 +12,15 @@ body {
     width: 90%;
     top: 0%;
     background-color: #fafafa;
+    z-index: 9999;
 }
 
-.nav-link {
-    color: #ffa601;
+nav .navbar-nav li a {
+    color: #ffa601 !important;
 }
 
-.nav-link:hover {
-    color: blue;
+nav .navbar-nav li a:hover {
+    color: #ffa601 !important;
 }
 
 
